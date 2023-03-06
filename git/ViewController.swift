@@ -13,8 +13,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("hello world !")
+        
     }
 
-
+    @IBAction func btn(_ sender: Any) {
+        print("btn")
+    }
+    
 }
 
