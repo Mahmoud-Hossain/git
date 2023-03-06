@@ -20,6 +20,7 @@ class ViewController: UIViewController {
 
     @IBAction func btn(_ sender: Any) {
         print("btn")
+        print("mahmoud")
     }
     
 }
